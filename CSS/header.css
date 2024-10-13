@@ -726,6 +726,8 @@ svg {
   html {
     overflow-x: hidden;
   }
+
+
   
   .page1 {
     display: flex;
@@ -760,6 +762,12 @@ svg {
     background-size: cover;
     background-position: center;
    
+  }
+
+  .satu,.dua,.tiga,.empat,.lima,.enam {
+    padding: 10px;
+    margin: 0;
+    text-align: center;
   }
 
   .page2-btn {
@@ -797,6 +805,10 @@ svg {
     object-fit: cover;
     width: 192px;
     height: 108px;
+  }
+
+  .dari-kanan,.dari-kiri {
+    animation:  none;
   }
 
 
